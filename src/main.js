@@ -9,7 +9,7 @@ function createWindow(){
             nodeIntegration :true
         }
     })
-    window.loadFile('src/UI/index.html');
+    window.loadFile('src/Pages/index.html');
 }
 
 module.exports = {createWindow}
